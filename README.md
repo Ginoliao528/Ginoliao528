@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on machine learning projects.
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Waiting to be changed.
 
 <!---
 Ginoliao528/Ginoliao528 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
