@@ -2,8 +2,8 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on machine learning projects.
-- ⚡ Fun fact: Waiting to be changed.
-now 10:35am
+- ⚡ Fun fact: Waiting to be changed.  
+-now 10:35am
 
 
 <!---
